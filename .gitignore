@@ -1,3 +1,6 @@
 recipes
 __pycache__
 .DS_Store
+recipes
+.venv
+scraper.log
